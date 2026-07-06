@@ -13,6 +13,7 @@
     <div class="alert alert-primary mt-4 container text-center">
         <h1>Bienvenido</h1>
         <p>Sistema de gestión para Rentas</p>
+    
         
     </div>
     
