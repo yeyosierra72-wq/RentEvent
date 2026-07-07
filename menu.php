@@ -11,7 +11,7 @@
             Formularios
           </button>
           <ul class="dropdown-menu dropdown-menu-dark">
-            <li><a class="dropdown-item" href=".php"></a></li>
+            <li><a class="dropdown-item" href="formulario_categoria.php">Formulario de Categoria</a></li>
             
         </li>
 
