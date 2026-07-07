@@ -14,6 +14,7 @@
             <li><a class="dropdown-item" href="formulario_categoria.php">Formulario categoria</a></li>
             <li><a class="dropdown-item" href="formulario_producto.php">Formulario producto</a></li>
             <li><a class="dropdown-item" href="formulario_cliente.php">Formulario cliente</a></li>
+            <li><a class="dropdown-item" href="formulario_cotizacion.php">Formulario cotización</a></li>
           </ul>
         </li>
 
@@ -25,6 +26,7 @@
             <li><a class="dropdown-item" href="mostrar_categoria.php">tabla Categoria</a></li>
             <li><a class="dropdown-item" href="mostrar_producto.php">tabla Producto</a></li>
             <li><a class="dropdown-item" href="mostrar_cliente.php">tabla Cliente</a></li>
+            <li><a class="dropdown-item" href="mostrar_cotizacion.php">tabla Cotización</a></li>
             
           </ul>
         </li>
