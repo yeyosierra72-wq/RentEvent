@@ -12,7 +12,7 @@
           </button>
           <ul class="dropdown-menu dropdown-menu-dark">
             <li><a class="dropdown-item" href="formulario_categoria.php">Formulario categoria</a></li>
-           
+            <li><a class="dropdown-item" href="formulario_producto.php">Formulario producto</a></li>
           </ul>
         </li>
 
@@ -22,7 +22,7 @@
           </button>
           <ul class="dropdown-menu dropdown-menu-dark">
             <li><a class="dropdown-item" href="mostrar_categoria.php">tabla Categoria</a></li>
-            
+            <li><a class="dropdown-item" href="mostrar_producto.php">tabla Producto</a></li>
             
           </ul>
         </li>
