@@ -123,3 +123,6 @@ CREATE TABLE usuario (
 INSERT INTO usuario (usuario,password,nombre) VALUES
 ('admin','123456','Administrador'),
 ('empleado','123456','Empleado');
+
+
+//mejorar los formularios con IA 

@@ -201,9 +201,9 @@ $msg    = isset($_GET['msg']) ? htmlspecialchars(urldecode($_GET['msg'])) : '';
 <?php endif; ?>
 
 <div class="tag-header">
-    <div class="eyebrow">Gestión de categorías</div>
-    <h1>Nueva categoría</h1>
-    <p class="mb-0" style="color:#c9d2e0;">Etiqueta y organiza tus productos en segundos</p>
+    <div class="eyebrow">Gestión de clientes</div>
+    <h1>Nuevo Cliente</h1>
+    <p class="mb-0" style="color:#c9d2e0;">Registra nuevos clientes y administra su información</p>
 </div>
 
 <div class="tag-card">
