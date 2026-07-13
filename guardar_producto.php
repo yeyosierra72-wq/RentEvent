@@ -27,6 +27,7 @@ if ($sql->execute()) {
     header("Location: formulario_producto.php?status=error&msg=$msg");
 }
 
+
 $sql->close();
 $conn->close(); // Cerramos la conexión
 exit;
