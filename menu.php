@@ -133,10 +133,10 @@
           </button>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="mostrar_categoria.php">📁 Categorías</a></li>
-            <li><a class="dropdown-item" href="mostrar_productos.php">📦 Productos</a></li>
+            <li><a class="dropdown-item" href="mostrar_producto.php">📦 Productos</a></li>
             <li><a class="dropdown-item" href="mostrar_cliente.php">👤 Clientes</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="mostrar_cotizacion.php">🧾 Cotizaciones</a></li>
+            <li><a class="dropdown-item" href="mostrar_cotizacion.php">🧾 Cotizaciones</a></li> 
           </ul>
         </li>
 
