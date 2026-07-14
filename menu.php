@@ -129,7 +129,7 @@
 
         <li class="nav-item dropdown">
           <button class="btn btn-menu dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-            Consultas
+            Mostrar
           </button>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="mostrar_categoria.php">📁 Categorías</a></li>
